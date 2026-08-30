@@ -8,44 +8,25 @@
   "target": "Google Summer of Code (GSoC) 2026"
 }
 ```
+### 💻 Production Repositories
+*   **[BTP_Project_Repo](https://github.com)** — Enterprise core logic deployed on SAP Cloud Platform.
+*   **[ESP-Website](https://github.com)** — Infrastructure and pipeline for core educational logistics.
+*   **[preprint-bot](https://github.com)** — Automated paper recommendation script engine.
+*   **[shramik-care](https://github.com)** — Full-stack deployment for localized community support.
 
 ---
 
-### 🟢 CORE REPOSITORIES & CONTRIBUTIONS
-
-| Repository / Project | Technology Stack | Core Focus & Work |
-| :--- | :--- | :--- |
-| 🚀 **[BTP_Project_Repo](https://github.com)** | `SAP BTP` `JavaScript` | Enterprise Cloud Logic & Backend Flow |
-| 🛠️ **[ESP-Website](https://github.com)** | `Python` `Open-Source` | Infrastructure for Educational Logistics |
-| 🤖 **[preprint-bot](https://github.com)** | `Python` `Automation` | Academic Recommendation Pipelines |
-| 💼 **[shramik-care](https://github.com)** | `MERN Stack` `JS` | Social Service Platform Deployment |
+### 🛠️ Core Stack
+`ABAP` `Java` `JavaScript` `Node.js` `React` `MongoDB` `SAP BTP` `Git` `Python` `Django`
 
 ---
 
-### 🛡️ TECH MATRIX & STACK
-
-```bash
-# Languages & Frameworks
-\$ languages   --list ["ABAP", "Java", "JavaScript (ES6+)"]
-\$ web-stack   --libs ["Node.js", "Express.js", "React.js", "MongoDB"]
-\$ enterprise  --platform ["SAP BTP (Cloud Platform)", "SAP Web IDE"]
-\$ workflows   --tools ["Git", "GitHub Actions", "CI/CD Baselines"]
-```
-
----
-
-### 🏆 ENGINEERING METRICS
-
-- **GitHub Verification:** Open Source Contributor `@learning-unlimited` 🟢
-- **Platform Badges Earned:** `Pull Shark (8 Merged PRs)` | `Pair Extraordinaire`
-
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Janvi's GitHub Stats" height="150" />
-  </a>
-</p>
-
----
+> [!TIP]
+> ### 🪮 Live Ecosystem Workflow Engine
+> - **Current System Status:** Active Open-Source Contributor `@learning-unlimited` 🟢
+> <!-- START_SECTION:pr-counter -->
+> - **Live PR Counter:** Fetching live data via GitHub Actions Engine... 🟣
+> <!-- END_SECTION:pr-counter -->
 
 ### 🌐 CONNECT
 [LinkedIn](https://linkedin.com) • [X (Twitter)](https://x.com)
