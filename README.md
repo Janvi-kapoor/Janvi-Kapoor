@@ -1,7 +1,5 @@
 # Hi there, I'm Janvi Kapoor! 👋 🚀
 
-# Janvi Kapoor
-
 **SAP ABAP Intern** | **Open Source Contributor** | **MERN Stack & Cloud Developer**
 
 Passionate software engineering student focused on building robust enterprise applications, cloud architectures, and scalable web platforms. Actively contributing to international open-source initiatives and preparing for **Google Summer of Code (GSoC) 2026**.
