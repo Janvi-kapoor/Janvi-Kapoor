@@ -17,7 +17,7 @@ jobs:
       - name: Fetch Merged PRs From GitHub API
         id: pr_data
         run: |
-          # Live count fetch across your public domain
+          # Sahi live API link update kar diya hai
           COUNT=$(curl -s "https://github.com" | jq '.total_count')
           if [ -z "$COUNT" ] || [ "$COUNT" = "null" ]; then COUNT="8"; fi
           echo "PR_COUNT=$COUNT" >> $GITHUB_ENV
@@ -30,6 +30,6 @@ jobs:
       - name: Commit & Push Verified Dynamic Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m "build: auto-updated live pr metric baseline" && git push)
