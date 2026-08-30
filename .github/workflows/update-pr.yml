@@ -2,8 +2,8 @@ name: Live PR Counter Engine
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Har 6 ghante mein background mein automatic chalega
-  workflow_dispatch:      # Isse aap jab chahein button daba kar manually run kar sakti hain
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -11,25 +11,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Repository
+      - name: Checkout Codebase
         uses: actions/checkout@v3
 
-      - name: Fetch Merged PRs From GitHub API
-        id: pr_data
-        run: |
-          # Sahi live API link update kar diya hai
-          COUNT=$(curl -s "https://github.com" | jq '.total_count')
-          if [ -z "$COUNT" ] || [ "$COUNT" = "null" ]; then COUNT="8"; fi
-          echo "PR_COUNT=$COUNT" >> $GITHUB_ENV
+      - name: Execute Pull Request Analytics
+        uses: gautamkrishnar/user-profile-details-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: "Janvi-kapoor"
 
-      - name: Rewrite README Anchor Section
-        run: |
-          sed -i '/<!-- START_SECTION:pr-counter -->/,/<!-- END_SECTION:pr-counter -->/{//!d}' README.md
-          sed -i '/<!-- START_SECTION:pr-counter -->/a \> - **Live PR Counter:** Successfully Merged '"${PR_COUNT}"' Pull Requests 🟣' README.md
-
-      - name: Commit & Push Verified Dynamic Changes
+      - name: Commit Verified Output Baselines
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "build: auto-updated live pr metric baseline" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -am "build: sync automated profile data metrics" && git push)
