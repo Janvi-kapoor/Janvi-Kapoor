@@ -14,6 +14,12 @@
 
 </div>
 
+### 👩‍💻 About Me
+
+Final-year BCA student and SAP ABAP Intern engineering enterprise services on SAP BTP along with scalable Django and MERN architectures. Internal Hackathon selectee with an active production footprint across high-impact open-source ecosystems. Actively seeking Software Engineer / Developer roles to build scalable backends and robust data pipelines.
+
+---
+
 ### 💻 Production Repositories
 *   **[BTP_Project_Repo](https://github.com)** — Enterprise core logic deployed on SAP Cloud Platform.
 *   **[ESP-Website](https://github.com)** — Infrastructure and pipeline for core educational logistics.
@@ -21,20 +27,18 @@
 *   **[shramik-care](https://github.com)** — Full-stack deployment for localized community support.
 
 ---
-
 ### 🛠️ Core Stack
-`ABAP` `Java` `JavaScript` `Node.js` `React` `MongoDB` `SAP BTP` `Git` `Python` `Django`
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=abap,java,javascript,nodejs,react,mongodb,git,python,django" alt="Core Tech Stack" />
+</p>
+
+---
 
 <div align="center">
 
-### ⚡ Engineering Focus & Live Engine
 
-[![Status](https://img.shields.io/badge/System-Active%20Contributor%20%40learning--unlimited-059669?style=flat-square&logo=github&logoColor=white)](#)
-[![GSoC](https://img.shields.io/badge/Target-GSoC%202026-9333EA?style=flat-square&logo=google&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
-
-<br/>
+### 🟣 Live Contribution Track
 
 <!-- Live Contribution Snake Graph (Purple Theme) -->
 <picture>
@@ -42,13 +46,26 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Janvi-kapoor/Janvi-kapoor/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Janvi-kapoor/Janvi-kapoor/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
+---
+---
 
-<br/>
+### 🟣 Shipped Open-Source Metrics
 
-<!-- Real-time Activity Curve in Purple Accent -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Janvi-kapoor&bg_color=0D1117&color=7A5AF8&line=9333EA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Flow Graph" />
+<div align="center">
+
+  <!-- Compact Live Status Pill Bar -->
+  <p>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3AJanvi-kapoor+is%3Amerged">
+      <img src="https://img.shields.io/badge/🚀_Shipped_PRs-8%2B_Merged-7A5AF8?style=for-the-badge&logo=git&logoColor=white" alt="Shipped PRs" />
+    </a>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3AJanvi-kapoor+is%3Amerged">
+      <img src="https://img.shields.io/badge/💻_Active_Contributions-learning--unlimited-059669?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+    </a>
+  </p>
+
+  <!-- Sleek Text-to-Graph Link Card -->
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AJanvi-kapoor+is%3Amerged">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&stroke=7A5AF8&strokeWidth=2&height=70&section=footer&text=Click%20Here%20to%20View%20All%20Merged%20Pull%20Requests&fontSize=16&fontColor=E0D7FF&animation=fadeIn" width="100%" alt="View PRs Banner" />
+  </a>
 
 </div>
-
-### 🌐 CONNECT
-[LinkedIn](https://linkedin.com) • [X (Twitter)](https://x.com)
