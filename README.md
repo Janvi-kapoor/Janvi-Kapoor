@@ -1,53 +1,51 @@
-# Hi there, I'm Janvi Kapoor! 👋 🚀
+# 💻 Janvi Kapoor | Software Engineer
 
-**SAP ABAP Intern** | **Open Source Contributor** | **MERN Stack & Cloud Developer**
-
-Passionate software engineering student focused on building robust enterprise applications, cloud architectures, and scalable web platforms. Actively contributing to international open-source initiatives and preparing for **Google Summer of Code (GSoC) 2026**.
-
----
-
-### 💼 Professional Experience
-
-* **SAP ABAP Intern** — *Currently Working*
-  * Developing and optimizing business logic, enterprise applications, and cloud integration workflows.
+```json
+{
+  "role": "SAP ABAP Intern",
+  "status": "Active Developer",
+  "focus": "MERN Stack, SAP BTP & Open Source",
+  "target": "Google Summer of Code (GSoC) 2026"
+}
+```
 
 ---
 
-### 🛠️ Technical Expertise
+### 🟢 CORE REPOSITORIES & CONTRIBUTIONS
 
-* **Core Languages & Frameworks**
-  * **Languages:** Java, JavaScript (ES6+), ABAP
-  * **Backend Ecosystem:** Node.js, Express.js, RESTful APIs
-  * **Frontend Engineering:** React.js, HTML5, CSS3, Modern UI Frameworks
-
-* **Cloud & Database Systems**
-  * **Enterprise Cloud:** SAP BTP (Business Technology Platform)
-  * **Databases:** MongoDB
-
-* **Tools & Developer Workflows**
-  * Version Control (Git, GitHub), VS Code, SAP Web IDE, CI/CD Baselines
+| Repository / Project | Technology Stack | Core Focus & Work |
+| :--- | :--- | :--- |
+| 🚀 **[BTP_Project_Repo](https://github.com)** | `SAP BTP` `JavaScript` | Enterprise Cloud Logic & Backend Flow |
+| 🛠️ **[ESP-Website](https://github.com)** | `Python` `Open-Source` | Infrastructure for Educational Logistics |
+| 🤖 **[preprint-bot](https://github.com)** | `Python` `Automation` | Academic Recommendation Pipelines |
+| 💼 **[shramik-care](https://github.com)** | `MERN Stack` `JS` | Social Service Platform Deployment |
 
 ---
 
-### 🎯 Key Initiatives & Open Source Focus
+### 🛡️ TECH MATRIX & STACK
 
-* **GSoC 2026 Preparation:** Actively mapping target organizations and analyzing enterprise architectures.
-* **Core Contributor at @learning-unlimited:** Working on modern logistics and educational infrastructure tools (`ESP-Website`).
-* **Academic Automation:** Exploring and refining paper recommendation pipelines via `preprint-bot` (SU-OSPO).
+```bash
+# Languages & Frameworks
+\$ languages   --list ["ABAP", "Java", "JavaScript (ES6+)"]
+\$ web-stack   --libs ["Node.js", "Express.js", "React.js", "MongoDB"]
+\$ enterprise  --platform ["SAP BTP (Cloud Platform)", "SAP Web IDE"]
+\$ workflows   --tools ["Git", "GitHub Actions", "CI/CD Baselines"]
+```
 
 ---
 
-### 📊 Engineering Metrics & Achievements
+### 🏆 ENGINEERING METRICS
+
+- **GitHub Verification:** Open Source Contributor `@learning-unlimited` 🟢
+- **Platform Badges Earned:** `Pull Shark (8 Merged PRs)` | `Pair Extraordinaire`
 
 <p align="left">
-  <img src="https://vercel.app" alt="Janvi Kapoor's GitHub Metrics" height="165" />
-  <img src="https://herokuapp.com" alt="Janvi Kapoor's Contribution Streak" height="165" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Janvi's GitHub Stats" height="150" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Professional Networks
-
-* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/janvikapoor/)
-* **X (Twitter):** [@Janvikapoor411](https://x.com)
-
+### 🌐 CONNECT
+[LinkedIn](https://linkedin.com) • [X (Twitter)](https://x.com)
